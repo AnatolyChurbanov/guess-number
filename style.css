@@ -1,0 +1,21 @@
+body {
+    background-color: moccasin;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3rem;
+}
+
+.game-card {
+    height: 85vh;
+    font-family: 'Open Sans', monospace;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+.card-body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
